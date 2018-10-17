@@ -1,0 +1,21 @@
+{
+  "name": "piauitech",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "^1.1.4"
+  },
+  "dependencies": {
+    "css-loader": "^0.28.1",
+    "particles.js": "^2.0.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-lifecycle-hoc": "^3.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
